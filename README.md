@@ -22,6 +22,9 @@ pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
 ```
+# Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/YouTube-Search-Bot)
 
 ---
 
