@@ -52,10 +52,8 @@ async def search(bot, update):
         publishedtime = result["publishedTime"]
         channel_name = result["channel"]["name"]
         channel_link = result["channel"]["link"]
-        video_link = result["link"]
         description = f"{views_short} | {duration}"
-        details = f"{video_link}" + "\n" \
-        f"**Title:** {title}" + "\n" \
+        details = f"**Title:** {title}" + "\n" \
         f"**Channel:** [{channel_name}]({channel_link})" + "\n" \
         f"**Duration:** {duration_text}" + "\n" \
         f"**Views:** {views}" + "\n" \
