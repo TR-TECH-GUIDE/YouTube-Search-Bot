@@ -6,7 +6,7 @@ A youtube search telegram bot.
 
 ```
 Made with Python3
-(C) @TR-TECH-GUIDE
+(C) @FayasNoushad
 Copyright permission under MIT License
 License -> https://github.com/TR-TECH-GUIDE/YouTube-Search-Bot/blob/main/LICENSE
 ```
