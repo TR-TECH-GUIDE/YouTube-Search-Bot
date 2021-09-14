@@ -40,3 +40,4 @@ python3 main.py
 
 - [Tharuk Renuja](https://github.com/TR-TECH-GUIDE)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Fayas](https://github.com/FayasNoushad)
