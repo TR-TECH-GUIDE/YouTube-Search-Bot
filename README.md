@@ -38,6 +38,6 @@ python3 main.py
 
 ## Credits
 
+- [Fayas](https://github.com/FayasNoushad)
 - [Tharuk Renuja](https://github.com/TR-TECH-GUIDE)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Fayas](https://github.com/FayasNoushad)
